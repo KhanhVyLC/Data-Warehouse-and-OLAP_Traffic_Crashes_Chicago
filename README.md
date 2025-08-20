@@ -1,7 +1,8 @@
 # Traffic Crashes Data Warehouse & Analytics Project
 
-### Dataset Link: [Traffic Crashes Dataset on Kaggle](https://www.kaggle.com/datasets/anoopjohny/traffic-crashes-crashes/data)
-### Drive Project Link: [Project Folder and Report](https://drive.google.com/drive/folders/11fX_VgxuYMpJDiCLBjjKWc9WhQ9tZqyj?usp=drive_link)
+## Project Source: 
+- Dataset Link: [Traffic Crashes Dataset on Kaggle](https://www.kaggle.com/datasets/anoopjohny/traffic-crashes-crashes/data)
+- Drive Project Link: [Project Folder and Report](https://drive.google.com/drive/folders/11fX_VgxuYMpJDiCLBjjKWc9WhQ9tZqyj?usp=drive_link)
 
 ---
 
