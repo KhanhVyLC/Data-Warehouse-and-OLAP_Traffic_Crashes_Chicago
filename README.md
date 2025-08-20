@@ -1,5 +1,9 @@
 # Traffic Crashes Data Warehouse & Analytics Project
 
+## Project Diagram
+<img width="1920" height="1080" alt="OLAP_Diagram" src="https://github.com/user-attachments/assets/433a6c78-f2b2-41d9-91f0-0120fe15472c" />
+
+
 ## Project Source
 - Dataset Link: [Traffic Crashes Dataset on Kaggle](https://www.kaggle.com/datasets/anoopjohny/traffic-crashes-crashes/data)
 - Drive Project Link: [Project Folder and Report](https://drive.google.com/drive/folders/11fX_VgxuYMpJDiCLBjjKWc9WhQ9tZqyj?usp=drive_link)
