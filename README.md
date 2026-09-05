@@ -37,7 +37,7 @@ The dataset provides detailed information about traffic accidents, including **t
 
 ### 4. Reporting & Visualization
 - Designed and published dashboards with **Power BI**.  
-- Built visual reports in **Locker Studio** using extracted CSV data.  
+- Built visual reports in **Looker Studio** using extracted CSV data.  
 
 ### 5. Data Mining & Predictive Modeling
 - Performed feature selection and redundancy elimination.  
